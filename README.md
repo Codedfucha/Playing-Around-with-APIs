@@ -40,6 +40,8 @@ project-directory/
 
 5. Enter a city name in the search bar and press the button to get weather updates.
 
+## See my video here
+## https://www.loom.com/share/1dd9defb7f71442fa0ee2c5535960ad4?sid=a6b57559-662c-4bf4-b94d-09bea242de6d 
 
 ## API Integration
 This project uses the [OpenWeatherMap API](https://openweathermap.org/api) to fetch weather data. 
